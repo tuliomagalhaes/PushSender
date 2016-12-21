@@ -30,7 +30,7 @@
 
 # Qt
 *.pro.user
-=======
+
 # C++ objects and libs
 
 *.slo
